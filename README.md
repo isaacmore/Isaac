@@ -1,2 +1,0 @@
-# Isaac
-Shopping info
