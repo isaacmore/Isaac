@@ -1,1 +1,1798 @@
 
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Goojara | Netnaija Movies</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="description" content="Goojara" />
+<meta name="keywords" content="Netnaija, Netnaija Movies" />
+<meta property="fb:app_id" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="NetnaijaMovies" />
+<meta property="og:title" content="Goojara | Netnaija Movies" />
+<meta property="og:description" content="Goojara" />
+<meta property="og:url" content="https://netnaijamovies.co.za" />
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://netnaijamovies.co.za/upload/logo.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="NetnaijaMovies" />
+<meta name="twitter:title" content="Goojara | Netnaija Movies" />
+<meta name="twitter:url" content="https://netnaijamovies.co.za" />
+<meta name="twitter:description" content="Goojara" />
+<meta name="twitter:image" content="https://netnaijamovies.co.za/upload/logo.png" />
+<link rel="shortcut icon" href="https://netnaijamovies.co.za/upload/favicon.png" />
+
+    <link
+    href="https://fonts.googleapis.com/css?family=Lato:400,500,600,700&amp;subset=latin,latin-ext"
+    rel='stylesheet' type='text/css' />
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+<link type="text/css" rel="stylesheet" href="https://netnaijamovies.co.za/assets/css/plugins.css?v=4.9.0" />
+<link type="text/css" rel="stylesheet" href="https://netnaijamovies.co.za/assets/css/application.css?v=4.9.0" />
+
+    <style>
+body {font-family: Lato, Helvetica, Arial, sans-serif;}
+</style>
+
+    
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZFYW2D75EC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZFYW2D75EC');
+</script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8912640220052871"
+     crossorigin="anonymous"></script>
+</head>
+<body class="">
+<header class="header">
+    <div class="header__searchbar">
+        <div class="header__searchbar__container">
+            <form action="https://netnaijamovies.co.za/search" method="get">
+                <input class="header__searchbar__container__input" id="search" type="search" required="" name="q"
+                    placeholder="Search:" autocomplete="off">
+                <label class="header__searchbar__container__close material-button material-button--icon ripple"
+                    for="search"><i class="material-icons">&#xE5CD;</i></label>
+            </form>
+        </div>
+    </div>
+    <div class="header__appbar">
+        <div class="container">
+            <div class="header__appbar--left">
+                <div class="header__appbar--left__nav visible-mobile">
+                    <i class="material-icons">menu</i>
+                </div>
+                <div class="header__appbar--left__logo">
+                    <a href="https://netnaijamovies.co.za">
+     <img class="site-logo" src="https://netnaijamovies.co.za/upload/logo.png" alt="Netnaija Movies">
+</a>
+                </div>
+                <div class="header__appbar--left__menu hide-mobile">
+                    <ul class="level_root header__appbar--left__menu__list">            <li data-id="1" class="menu_item header__appbar--left__menu__list__item ">
+            <a href="https://netnaijamovies.co.za/news" class="menu-link  ripple" target="_self">
+                        <span class="menu-icon "><i class="material-icons">library_books</i></span>
+            <span class="menu-title ">News</span>
+        </a>
+        </li>
+            <li data-id="3" class="menu_item header__appbar--left__menu__list__item ">
+            <a href="https://netnaijamovies.co.za/lists" class="menu-link  ripple" target="_self">
+                        <span class="menu-icon "><i class="material-icons">collections</i></span>
+            <span class="menu-title ">Lists</span>
+        </a>
+        </li>
+            <li data-id="5" class="menu_item header__appbar--left__menu__list__item ">
+            <a href="https://netnaijamovies.co.za/quizzes" class="menu-link  ripple" target="_self">
+                        <span class="menu-icon "><i class="material-icons">quiz</i></span>
+            <span class="menu-title ">Quizzes</span>
+        </a>
+        </li>
+            <li data-id="7" class="menu_item header__appbar--left__menu__list__item ">
+            <a href="https://netnaijamovies.co.za/polls" class="menu-link  ripple" target="_self">
+                        <span class="menu-icon "><i class="material-icons">library_add_check</i></span>
+            <span class="menu-title ">Polls</span>
+        </a>
+        </li>
+            <li data-id="9" class="menu_item header__appbar--left__menu__list__item ">
+            <a href="https://netnaijamovies.co.za/videos" class="menu-link  ripple" target="_self">
+                        <span class="menu-icon "><i class="material-icons">video_library</i></span>
+            <span class="menu-title ">Videos</span>
+        </a>
+        </li>
+    </ul>
+<ul class="header__appbar--left__menu__list">
+    <li class="header__appbar--left__menu__list__item">
+        <a class="category-dropdown-button ripple has-dropdown" href="javascript:" data-target="category-dropdown"
+            data-align="center">
+            <i class="material-icons">&#xE5D3;</i>
+        </a>
+        <div class="category-dropdown dropdown-container">
+            <div class="category-dropdown_sec sec_cat1 clearfix">
+                <div class="category-dropdown_community">
+                    <div class="community_title">Hey Netnaijas!</div>
+                    <div class="community_desc">  <a href="/create">Create</a> your own posts. Just follow our <a href="/pages/Guidelines">Guidelines</a> and you are set </div>
+                </div>
+
+                <div class="reaction-emojis">
+                <a href="https://netnaijamovies.co.za/reactions/awesome" title="AWESOME!">
+        <img alt="AWESOME!" src="https://netnaijamovies.co.za/assets/images/reactions/awesome.gif" width="42" height="42">
+    </a>
+        <a href="https://netnaijamovies.co.za/reactions/nice" title="NICE">
+        <img alt="NICE" src="https://netnaijamovies.co.za/assets/images/reactions/nice.png" width="42" height="42">
+    </a>
+        <a href="https://netnaijamovies.co.za/reactions/loved" title="LOVED">
+        <img alt="LOVED" src="https://netnaijamovies.co.za/assets/images/reactions/loved.gif" width="42" height="42">
+    </a>
+        <a href="https://netnaijamovies.co.za/reactions/loL" title="LOL">
+        <img alt="LOL" src="https://netnaijamovies.co.za/assets/images/reactions/lol.gif" width="42" height="42">
+    </a>
+        <a href="https://netnaijamovies.co.za/reactions/funny" title="FUNNY">
+        <img alt="FUNNY" src="https://netnaijamovies.co.za/assets/images/reactions/funny.gif" width="42" height="42">
+    </a>
+        <a href="https://netnaijamovies.co.za/reactions/fail" title="FAIL!">
+        <img alt="FAIL!" src="https://netnaijamovies.co.za/assets/images/reactions/fail.gif" width="42" height="42">
+    </a>
+        <a href="https://netnaijamovies.co.za/reactions/omg" title="OMG!">
+        <img alt="OMG!" src="https://netnaijamovies.co.za/assets/images/reactions/wow.gif" width="42" height="42">
+    </a>
+        <a href="https://netnaijamovies.co.za/reactions/ew" title="EW!">
+        <img alt="EW!" src="https://netnaijamovies.co.za/assets/images/reactions/cry.gif" width="42" height="42">
+    </a>
+        </div>
+            </div>
+            <div class="category-dropdown_sec sec_cat2 clearfix">
+                <ul class="level_root ">    </ul>            </div>
+            <div class="category-dropdown_sec sec_cat3 clearfix">
+                <img class="footer-site-logo" src="https://netnaijamovies.co.za/upload/flogo.png" width="60px" alt="Netnaija Movies">
+                
+                <div class="footer-left">
+                    <div class="footer-menu clearfix">
+                        <ul class="level_root ">            <li data-id="11" class="menu_item footer-menu__item ">
+            <a href="https://netnaijamovies.co.za/pages/About" class="menu-link  ripple" target="_self">
+                        <span class="menu-icon "></span>
+            <span class="menu-title ">About us</span>
+        </a>
+        </li>
+            <li data-id="12" class="menu_item footer-menu__item ">
+            <a href="https://netnaijamovies.co.za/pages/Terms" class="menu-link  ripple" target="_self">
+                        <span class="menu-icon "></span>
+            <span class="menu-title ">Terms of use</span>
+        </a>
+        </li>
+            <li data-id="13" class="menu_item footer-menu__item ">
+            <a href="https://netnaijamovies.co.za/pages/Policy" class="menu-link  ripple" target="_self">
+                        <span class="menu-icon "></span>
+            <span class="menu-title ">Privacy Policy</span>
+        </a>
+        </li>
+            <li data-id="14" class="menu_item footer-menu__item ">
+            <a href="https://netnaijamovies.co.za/pages/DMCA" class="menu-link  ripple" target="_self">
+                        <span class="menu-icon "></span>
+            <span class="menu-title ">DMCA Takedown Requests</span>
+        </a>
+        </li>
+            <li data-id="15" class="menu_item footer-menu__item ">
+            <a href="https://netnaijamovies.co.za/pages/Guidelines" class="menu-link  ripple" target="_self">
+                        <span class="menu-icon "></span>
+            <span class="menu-title ">Guidelines for users</span>
+        </a>
+        </li>
+    </ul>                    </div>
+                    <div class="footer-copyright clearfix">
+                        Copyright © 2024 Netnaija Movies. All rights reserved.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
+                </div>
+            </div>
+            <div class="header__appbar--right">
+               <div class="header__appbar--right__search">
+    <div class="header__appbar--right__search__button material-button material-button--icon ripple">
+        <i class="material-icons">&#xE8B6;</i>
+    </div>
+</div>
+                <div class="header__appbar--right__notice">
+                    <div class="create-links hor">
+        <a class="header__appbar--right__settings__button  has-dropdown button button-create hide-mobile" href="https://netnaijamovies.co.za/create" >Submit a Movie</a>
+        <a class="header__appbar--right__settings__button material-button material-button--icon ripple visible-mobile" href="https://netnaijamovies.co.za/create" ><i class="material-icons">&#xE148;</i></a>
+    </div>
+                </div>
+                <div class="header__appbar--right__settings">
+
+        <div class="header__appbar--right__settings__button has-dropdown" data-target="settings-dropdown" data-align="right-bottom">
+            <div class=" material-button material-button--icon ripple ">
+                <img src="https://netnaijamovies.co.za/upload/media/members/avatar/2024-09/08/isaac-1725788705-s.jpg" width="34" height="34"  alt="Isaac">
+            </div>
+                    </div>
+        <div class="settings-dropdown dropdown-container">
+            <ul>
+                <li class="dropdown-container__item ripple">
+                    <a href="https://netnaijamovies.co.za/profile/isaac">My Profile</a>
+                </li>
+                <li class="dropdown-container__item ripple">
+                    <a href="https://netnaijamovies.co.za/profile/isaac/messages">Messages</a>
+                                    </li>
+                <li class="dropdown-container__item ripple">
+                    <a href="https://netnaijamovies.co.za/profile/isaac/settings">Settings</a>
+                </li>
+                <li class="dropdown-container__item ripple">
+                    <a href="https://netnaijamovies.co.za/profile/isaac/feed">Feed Posts</a>
+                </li>
+                <li class="dropdown-container__item ripple">
+                    <a href="https://netnaijamovies.co.za/profile/isaac/draft">Draft Posts</a>
+                </li>
+                <li class="dropdown-container__item ripple">
+                    <a href="https://netnaijamovies.co.za/profile/isaac/trash">Trash Posts</a>
+                </li>
+                                <li class="dropdown-container__item ripple">
+                    <a href="https://netnaijamovies.co.za/admin" target="_blank">Admin Panel</a>
+                </li>
+                                <li class="dropdown-container__item ripple">
+                    <a href="https://netnaijamovies.co.za/logout"
+                            onclick="event.preventDefault();
+                                        document.getElementById('logout-form').submit();">
+                            Logout
+                        </a>
+
+                        <form id="logout-form" action="https://netnaijamovies.co.za/logout" method="POST" class="hidden">
+                            <input type="hidden" name="_token" value="mZSCriU7C58tjuLuJAsSGxMmky5HbUWvsY80wZxE">
+                        </form>
+                </li>
+            </ul>
+        </div>
+    </div>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="drawer">
+    <div class="drawer__header clearfix">
+        <div class="drawer__header__logo">
+            <a href="https://netnaijamovies.co.za">
+     <img class="site-logo" src="https://netnaijamovies.co.za/upload/logo.png" alt="Netnaija Movies">
+</a>
+        </div>
+        <span class="drawer__header__close"><i class="material-icons">&#xE408;</i></span>
+    </div>
+
+    <ul class="drawer__menu clearfix">
+        <li class="drawer__menu__item drawer__menu__item--active">
+            <a class="drawer__menu__item__link" href="https://netnaijamovies.co.za">
+                <span class="drawer__menu__item__icon"><i class="material-icons">&#xE88A;</i></span>
+                <span class="drawer__menu__item__title">Home</span>
+            </a>
+        </li>
+
+        <li data-id="2" class="menu_item drawer__menu__item clearfix ">
+            <a href="https://netnaijamovies.co.za/news" class="menu-link drawer__menu__item__link ripple" target="_self">
+                        <span class="menu-icon drawer__menu__item__icon"><i class="material-icons">library_books</i></span>
+            <span class="menu-title drawer__menu__item__title">News</span>
+        </a>
+        </li>
+            <li data-id="4" class="menu_item drawer__menu__item clearfix ">
+            <a href="https://netnaijamovies.co.za/lists" class="menu-link drawer__menu__item__link ripple" target="_self">
+                        <span class="menu-icon drawer__menu__item__icon"><i class="material-icons">collections</i></span>
+            <span class="menu-title drawer__menu__item__title">Lists</span>
+        </a>
+        </li>
+            <li data-id="6" class="menu_item drawer__menu__item clearfix ">
+            <a href="https://netnaijamovies.co.za/quizzes" class="menu-link drawer__menu__item__link ripple" target="_self">
+                        <span class="menu-icon drawer__menu__item__icon"><i class="material-icons">quiz</i></span>
+            <span class="menu-title drawer__menu__item__title">Quizzes</span>
+        </a>
+        </li>
+            <li data-id="8" class="menu_item drawer__menu__item clearfix ">
+            <a href="https://netnaijamovies.co.za/polls" class="menu-link drawer__menu__item__link ripple" target="_self">
+                        <span class="menu-icon drawer__menu__item__icon"><i class="material-icons">library_add_check</i></span>
+            <span class="menu-title drawer__menu__item__title">Polls</span>
+        </a>
+        </li>
+            <li data-id="10" class="menu_item drawer__menu__item clearfix ">
+            <a href="https://netnaijamovies.co.za/videos" class="menu-link drawer__menu__item__link ripple" target="_self">
+                        <span class="menu-icon drawer__menu__item__icon"><i class="material-icons">video_library</i></span>
+            <span class="menu-title drawer__menu__item__title">Videos</span>
+        </a>
+        </li>
+    
+
+        <li class=" drawer__menu__item--border">
+           <div class="reaction-emojis">
+                <a href="https://netnaijamovies.co.za/reactions/awesome" title="AWESOME!">
+        <img alt="AWESOME!" src="https://netnaijamovies.co.za/assets/images/reactions/awesome.gif" width="42" height="42">
+    </a>
+        <a href="https://netnaijamovies.co.za/reactions/nice" title="NICE">
+        <img alt="NICE" src="https://netnaijamovies.co.za/assets/images/reactions/nice.png" width="42" height="42">
+    </a>
+        <a href="https://netnaijamovies.co.za/reactions/loved" title="LOVED">
+        <img alt="LOVED" src="https://netnaijamovies.co.za/assets/images/reactions/loved.gif" width="42" height="42">
+    </a>
+        <a href="https://netnaijamovies.co.za/reactions/loL" title="LOL">
+        <img alt="LOL" src="https://netnaijamovies.co.za/assets/images/reactions/lol.gif" width="42" height="42">
+    </a>
+        <a href="https://netnaijamovies.co.za/reactions/funny" title="FUNNY">
+        <img alt="FUNNY" src="https://netnaijamovies.co.za/assets/images/reactions/funny.gif" width="42" height="42">
+    </a>
+        <a href="https://netnaijamovies.co.za/reactions/fail" title="FAIL!">
+        <img alt="FAIL!" src="https://netnaijamovies.co.za/assets/images/reactions/fail.gif" width="42" height="42">
+    </a>
+        <a href="https://netnaijamovies.co.za/reactions/omg" title="OMG!">
+        <img alt="OMG!" src="https://netnaijamovies.co.za/assets/images/reactions/wow.gif" width="42" height="42">
+    </a>
+        <a href="https://netnaijamovies.co.za/reactions/ew" title="EW!">
+        <img alt="EW!" src="https://netnaijamovies.co.za/assets/images/reactions/cry.gif" width="42" height="42">
+    </a>
+        </div>
+        </li>
+    </ul>
+
+    <div class="footer-left">
+        <div class="footer-menu clearfix">
+            <ul class="level_root ">            <li data-id="11" class="menu_item footer-menu__item ">
+            <a href="https://netnaijamovies.co.za/pages/About" class="menu-link  ripple" target="_self">
+                        <span class="menu-icon "></span>
+            <span class="menu-title ">About us</span>
+        </a>
+        </li>
+            <li data-id="12" class="menu_item footer-menu__item ">
+            <a href="https://netnaijamovies.co.za/pages/Terms" class="menu-link  ripple" target="_self">
+                        <span class="menu-icon "></span>
+            <span class="menu-title ">Terms of use</span>
+        </a>
+        </li>
+            <li data-id="13" class="menu_item footer-menu__item ">
+            <a href="https://netnaijamovies.co.za/pages/Policy" class="menu-link  ripple" target="_self">
+                        <span class="menu-icon "></span>
+            <span class="menu-title ">Privacy Policy</span>
+        </a>
+        </li>
+            <li data-id="14" class="menu_item footer-menu__item ">
+            <a href="https://netnaijamovies.co.za/pages/DMCA" class="menu-link  ripple" target="_self">
+                        <span class="menu-icon "></span>
+            <span class="menu-title ">DMCA Takedown Requests</span>
+        </a>
+        </li>
+            <li data-id="15" class="menu_item footer-menu__item ">
+            <a href="https://netnaijamovies.co.za/pages/Guidelines" class="menu-link  ripple" target="_self">
+                        <span class="menu-icon "></span>
+            <span class="menu-title ">Guidelines for users</span>
+        </a>
+        </li>
+    </ul>        </div>
+        <div class="footer-copyright clearfix">
+            Copyright © 2024 Netnaija Movies. All rights reserved.
+        </div>
+    </div>
+</div>
+
+<div class="buzz-container">
+    <div class="global-container container">
+        <div class="content">
+            <div class="content-title"><h3>Movies by: <span> Goojara</span></h3></div>
+            <div class="content-body clearfix">
+                <div class="content-body__detail">
+                                            <div class="content-timeline__list">
+                                                            <div class="content-timeline__item is-active large">
+    <div class="content-timeline--right">
+        <div class="content-timeline__link clearfix">
+            <div class="content-timeline__media">
+                <figure class="content-timeline__media__image">
+                    <a href="https://netnaijamovies.co.za/news/piano-love---2024--movie" title=""Piano Love" (2024) Movie">
+                        <img data-src="https://netnaijamovies.co.za/upload/media/posts/2024-09/11/piano-love-2024-movie_1726059963-s.jpg" class=" lazyload"
+                            alt=""Piano Love" (2024) Movie" width="262" height="147">
+                    </a>
+                </figure>
+            </div>
+            <div class="content-timeline__detail">
+                <div class="content-timeline__detail__container">
+                    <a href="https://netnaijamovies.co.za/news/piano-love---2024--movie" title=""Piano Love" (2024) Movie">
+                        <h3 class="content-timeline__detail__title">"Piano Love" (2024) Movie</h3>
+                    </a>
+                    <div class="content-timeline__detail--top">
+                        <p class="content-timeline__detail__desc">South Africa&#039;s latest film offering, Piano Love, directed by Mandla N, has made a notable debut on Netflix, sparking a range of reactions from viewers across social media. While some have praised the film&#039;s heartfelt performances and strong cultural reson...</p>
+                    </div>
+                    <div class="content-timeline__detail--bottom">
+                        <div class="content-timeline__detail__date share_counts">
+                            <span class="facebook">
+                                <div class="buzz-icon buzz-facebook"></div>
+                                0
+                            </span>
+                            <span class="twitter">
+                                <div class="buzz-icon buzz-twitter"></div>
+                                0
+                            </span>
+                            <span class="whatsapp">
+                                <div class="buzz-icon buzz-whatsapp"></div>
+                                0
+                            </span>
+                        </div>
+
+                        <div class="content-timeline__detail__date">
+                            11 Sep, 03:06 PM
+                        </div>
+
+                                                <a class="content-timeline__detail__author hide-phone"
+                            href="https://netnaijamovies.co.za/profile/isaac"
+                            title="Isaac"> Isaac</a>
+                        
+                        <div class="content-timeline__detail__social-media">
+                            <span class="has-dropdown" data-target="share-dropdown--123"
+                                data-align="left-bottom"><i class="material-icons"></i></span>
+                            <div class="share-dropdown share-dropdown--123  dropdown-container">
+                                <ul>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="facebook" data-type="news" data-id="123"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title=""Piano Love" (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/piano-love---2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--facebook"></span>
+                                        <span class="share-dropdown__title">Facebook</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="twitter" data-type="news" data-id="123"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title=""Piano Love" (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/piano-love---2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--twitter"></span>
+                                        <span class="share-dropdown__title">Twitter</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="whatsapp" data-type="news" data-id="123"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title=""Piano Love" (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/piano-love---2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--whatsapp"></span>
+                                        <span class="share-dropdown__title">Whatsapp</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="mail" data-type="news" data-id="123"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title=""Piano Love" (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/piano-love---2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--mail"></span>
+                                        <span class="share-dropdown__title">Email</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                                                            <div class="content-timeline__item is-active large">
+    <div class="content-timeline--right">
+        <div class="content-timeline__link clearfix">
+            <div class="content-timeline__media">
+                <figure class="content-timeline__media__image">
+                    <a href="https://netnaijamovies.co.za/news/mufasa-the-lion-king--2024--movie" title="Mufasa - The Lion King (2024) Movie">
+                        <img data-src="https://netnaijamovies.co.za/upload/media/posts/2024-09/11/mufasa-the-lion-king-2024-movie_1726056589-s.jpg" class=" lazyload"
+                            alt="Mufasa - The Lion King (2024) Movie" width="262" height="147">
+                    </a>
+                </figure>
+            </div>
+            <div class="content-timeline__detail">
+                <div class="content-timeline__detail__container">
+                    <a href="https://netnaijamovies.co.za/news/mufasa-the-lion-king--2024--movie" title="Mufasa - The Lion King (2024) Movie">
+                        <h3 class="content-timeline__detail__title">Mufasa - The Lion King (2024) Movie</h3>
+                    </a>
+                    <div class="content-timeline__detail--top">
+                        <p class="content-timeline__detail__desc">On December 20, 2024, Disney will unveil Mufasa: The Lion King, a highly anticipated photorealistic musical drama that serves as both a prequel and sequel to the 2019 remake of The Lion King.</p>
+                    </div>
+                    <div class="content-timeline__detail--bottom">
+                        <div class="content-timeline__detail__date share_counts">
+                            <span class="facebook">
+                                <div class="buzz-icon buzz-facebook"></div>
+                                0
+                            </span>
+                            <span class="twitter">
+                                <div class="buzz-icon buzz-twitter"></div>
+                                0
+                            </span>
+                            <span class="whatsapp">
+                                <div class="buzz-icon buzz-whatsapp"></div>
+                                0
+                            </span>
+                        </div>
+
+                        <div class="content-timeline__detail__date">
+                            11 Sep, 02:09 PM
+                        </div>
+
+                                                <a class="content-timeline__detail__author hide-phone"
+                            href="https://netnaijamovies.co.za/profile/isaac"
+                            title="Isaac"> Isaac</a>
+                        
+                        <div class="content-timeline__detail__social-media">
+                            <span class="has-dropdown" data-target="share-dropdown--122"
+                                data-align="left-bottom"><i class="material-icons"></i></span>
+                            <div class="share-dropdown share-dropdown--122  dropdown-container">
+                                <ul>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="facebook" data-type="news" data-id="122"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Mufasa - The Lion King (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/mufasa-the-lion-king--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--facebook"></span>
+                                        <span class="share-dropdown__title">Facebook</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="twitter" data-type="news" data-id="122"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Mufasa - The Lion King (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/mufasa-the-lion-king--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--twitter"></span>
+                                        <span class="share-dropdown__title">Twitter</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="whatsapp" data-type="news" data-id="122"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Mufasa - The Lion King (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/mufasa-the-lion-king--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--whatsapp"></span>
+                                        <span class="share-dropdown__title">Whatsapp</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="mail" data-type="news" data-id="122"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Mufasa - The Lion King (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/mufasa-the-lion-king--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--mail"></span>
+                                        <span class="share-dropdown__title">Email</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                                                            <div class="content-timeline__item is-active large">
+    <div class="content-timeline--right">
+        <div class="content-timeline__link clearfix">
+            <div class="content-timeline__media">
+                <figure class="content-timeline__media__image">
+                    <a href="https://netnaijamovies.co.za/news/caddo-lake--2024--movie" title="Caddo Lake (2024) Movie">
+                        <img data-src="https://netnaijamovies.co.za/upload/media/posts/2024-09/11/caddo-lake-2024-movie_1726056186-s.jpg" class=" lazyload"
+                            alt="Caddo Lake (2024) Movie" width="262" height="147">
+                    </a>
+                </figure>
+            </div>
+            <div class="content-timeline__detail">
+                <div class="content-timeline__detail__container">
+                    <a href="https://netnaijamovies.co.za/news/caddo-lake--2024--movie" title="Caddo Lake (2024) Movie">
+                        <h3 class="content-timeline__detail__title">Caddo Lake (2024) Movie</h3>
+                    </a>
+                    <div class="content-timeline__detail--top">
+                        <p class="content-timeline__detail__desc">The upcoming psychological thriller Caddo Lake, set to be released on October 10, 2024, is poised to captivate audiences with its chilling narrative and atmospheric tension. Directed by the talented duo Celine Held and Logan George, and distributed by War...</p>
+                    </div>
+                    <div class="content-timeline__detail--bottom">
+                        <div class="content-timeline__detail__date share_counts">
+                            <span class="facebook">
+                                <div class="buzz-icon buzz-facebook"></div>
+                                0
+                            </span>
+                            <span class="twitter">
+                                <div class="buzz-icon buzz-twitter"></div>
+                                0
+                            </span>
+                            <span class="whatsapp">
+                                <div class="buzz-icon buzz-whatsapp"></div>
+                                0
+                            </span>
+                        </div>
+
+                        <div class="content-timeline__detail__date">
+                            11 Sep, 02:03 PM
+                        </div>
+
+                                                <a class="content-timeline__detail__author hide-phone"
+                            href="https://netnaijamovies.co.za/profile/isaac"
+                            title="Isaac"> Isaac</a>
+                        
+                        <div class="content-timeline__detail__social-media">
+                            <span class="has-dropdown" data-target="share-dropdown--121"
+                                data-align="left-bottom"><i class="material-icons"></i></span>
+                            <div class="share-dropdown share-dropdown--121  dropdown-container">
+                                <ul>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="facebook" data-type="news" data-id="121"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Caddo Lake (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/caddo-lake--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--facebook"></span>
+                                        <span class="share-dropdown__title">Facebook</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="twitter" data-type="news" data-id="121"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Caddo Lake (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/caddo-lake--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--twitter"></span>
+                                        <span class="share-dropdown__title">Twitter</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="whatsapp" data-type="news" data-id="121"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Caddo Lake (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/caddo-lake--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--whatsapp"></span>
+                                        <span class="share-dropdown__title">Whatsapp</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="mail" data-type="news" data-id="121"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Caddo Lake (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/caddo-lake--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--mail"></span>
+                                        <span class="share-dropdown__title">Email</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                                                            <div class="content-timeline__item is-active large">
+    <div class="content-timeline--right">
+        <div class="content-timeline__link clearfix">
+            <div class="content-timeline__media">
+                <figure class="content-timeline__media__image">
+                    <a href="https://netnaijamovies.co.za/news/uglies--2024--movie" title="Uglies (2024) Movie">
+                        <img data-src="https://netnaijamovies.co.za/upload/media/posts/2024-09/11/uglies-2024-movie_1726055661-s.jpg" class=" lazyload"
+                            alt="Uglies (2024) Movie" width="262" height="147">
+                    </a>
+                </figure>
+            </div>
+            <div class="content-timeline__detail">
+                <div class="content-timeline__detail__container">
+                    <a href="https://netnaijamovies.co.za/news/uglies--2024--movie" title="Uglies (2024) Movie">
+                        <h3 class="content-timeline__detail__title">Uglies (2024) Movie</h3>
+                    </a>
+                    <div class="content-timeline__detail--top">
+                        <p class="content-timeline__detail__desc">The upcoming film Uglies, set to release on September 13, 2024, brings a fresh yet unsettling take on the societal obsession with beauty. Directed by McG, the film is an adaptation of Scott Westerfeld’s best-selling 2005 dystopian novel, which explores a...</p>
+                    </div>
+                    <div class="content-timeline__detail--bottom">
+                        <div class="content-timeline__detail__date share_counts">
+                            <span class="facebook">
+                                <div class="buzz-icon buzz-facebook"></div>
+                                0
+                            </span>
+                            <span class="twitter">
+                                <div class="buzz-icon buzz-twitter"></div>
+                                0
+                            </span>
+                            <span class="whatsapp">
+                                <div class="buzz-icon buzz-whatsapp"></div>
+                                0
+                            </span>
+                        </div>
+
+                        <div class="content-timeline__detail__date">
+                            11 Sep, 01:54 PM
+                        </div>
+
+                                                <a class="content-timeline__detail__author hide-phone"
+                            href="https://netnaijamovies.co.za/profile/isaac"
+                            title="Isaac"> Isaac</a>
+                        
+                        <div class="content-timeline__detail__social-media">
+                            <span class="has-dropdown" data-target="share-dropdown--120"
+                                data-align="left-bottom"><i class="material-icons"></i></span>
+                            <div class="share-dropdown share-dropdown--120  dropdown-container">
+                                <ul>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="facebook" data-type="news" data-id="120"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Uglies (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/uglies--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--facebook"></span>
+                                        <span class="share-dropdown__title">Facebook</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="twitter" data-type="news" data-id="120"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Uglies (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/uglies--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--twitter"></span>
+                                        <span class="share-dropdown__title">Twitter</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="whatsapp" data-type="news" data-id="120"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Uglies (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/uglies--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--whatsapp"></span>
+                                        <span class="share-dropdown__title">Whatsapp</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="mail" data-type="news" data-id="120"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Uglies (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/uglies--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--mail"></span>
+                                        <span class="share-dropdown__title">Email</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                                                            <div class="content-timeline__item is-active large">
+    <div class="content-timeline--right">
+        <div class="content-timeline__link clearfix">
+            <div class="content-timeline__media">
+                <figure class="content-timeline__media__image">
+                    <a href="https://netnaijamovies.co.za/news/28-years-later-2025" title="28 Years Later 2025">
+                        <img data-src="https://netnaijamovies.co.za/upload/media/posts/2024-09/11/28-years-later-2025_1726055184-s.jpg" class=" lazyload"
+                            alt="28 Years Later 2025" width="262" height="147">
+                    </a>
+                </figure>
+            </div>
+            <div class="content-timeline__detail">
+                <div class="content-timeline__detail__container">
+                    <a href="https://netnaijamovies.co.za/news/28-years-later-2025" title="28 Years Later 2025">
+                        <h3 class="content-timeline__detail__title">28 Years Later 2025</h3>
+                    </a>
+                    <div class="content-timeline__detail--top">
+                        <p class="content-timeline__detail__desc">Fans of the 28 Days Later series have been eagerly awaiting the third installment of the post-apocalyptic horror franchise, and the wait is nearly over. 28 Years Later is set to hit theaters on June 20, 2025, bringing audiences back to the terrifying worl...</p>
+                    </div>
+                    <div class="content-timeline__detail--bottom">
+                        <div class="content-timeline__detail__date share_counts">
+                            <span class="facebook">
+                                <div class="buzz-icon buzz-facebook"></div>
+                                0
+                            </span>
+                            <span class="twitter">
+                                <div class="buzz-icon buzz-twitter"></div>
+                                0
+                            </span>
+                            <span class="whatsapp">
+                                <div class="buzz-icon buzz-whatsapp"></div>
+                                0
+                            </span>
+                        </div>
+
+                        <div class="content-timeline__detail__date">
+                            11 Sep, 01:46 PM
+                        </div>
+
+                                                <a class="content-timeline__detail__author hide-phone"
+                            href="https://netnaijamovies.co.za/profile/isaac"
+                            title="Isaac"> Isaac</a>
+                        
+                        <div class="content-timeline__detail__social-media">
+                            <span class="has-dropdown" data-target="share-dropdown--119"
+                                data-align="left-bottom"><i class="material-icons"></i></span>
+                            <div class="share-dropdown share-dropdown--119  dropdown-container">
+                                <ul>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="facebook" data-type="news" data-id="119"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="28 Years Later 2025"
+                                        data-sef="https://netnaijamovies.co.za/news/28-years-later-2025">
+                                        <span class="share-dropdown__icon share-dropdown__icon--facebook"></span>
+                                        <span class="share-dropdown__title">Facebook</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="twitter" data-type="news" data-id="119"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="28 Years Later 2025"
+                                        data-sef="https://netnaijamovies.co.za/news/28-years-later-2025">
+                                        <span class="share-dropdown__icon share-dropdown__icon--twitter"></span>
+                                        <span class="share-dropdown__title">Twitter</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="whatsapp" data-type="news" data-id="119"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="28 Years Later 2025"
+                                        data-sef="https://netnaijamovies.co.za/news/28-years-later-2025">
+                                        <span class="share-dropdown__icon share-dropdown__icon--whatsapp"></span>
+                                        <span class="share-dropdown__title">Whatsapp</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="mail" data-type="news" data-id="119"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="28 Years Later 2025"
+                                        data-sef="https://netnaijamovies.co.za/news/28-years-later-2025">
+                                        <span class="share-dropdown__icon share-dropdown__icon--mail"></span>
+                                        <span class="share-dropdown__title">Email</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                                                            <div class="content-timeline__item is-active large">
+    <div class="content-timeline--right">
+        <div class="content-timeline__link clearfix">
+            <div class="content-timeline__media">
+                <figure class="content-timeline__media__image">
+                    <a href="https://netnaijamovies.co.za/news/minecraft-movie--2025" title="Minecraft Movie (2025)">
+                        <img data-src="https://netnaijamovies.co.za/upload/media/posts/2024-09/11/minecraft-movie-2025_1726054771-s.jpg" class=" lazyload"
+                            alt="Minecraft Movie (2025)" width="262" height="147">
+                    </a>
+                </figure>
+            </div>
+            <div class="content-timeline__detail">
+                <div class="content-timeline__detail__container">
+                    <a href="https://netnaijamovies.co.za/news/minecraft-movie--2025" title="Minecraft Movie (2025)">
+                        <h3 class="content-timeline__detail__title">Minecraft Movie (2025)</h3>
+                    </a>
+                    <div class="content-timeline__detail--top">
+                        <p class="content-timeline__detail__desc">The gaming world is abuzz with anticipation for Minecraft, the upcoming adventure comedy film set to bring one of the most popular video games of all time to life. Slated for release on April 4, 2025, the film will be directed by Jared Hess, who is best k...</p>
+                    </div>
+                    <div class="content-timeline__detail--bottom">
+                        <div class="content-timeline__detail__date share_counts">
+                            <span class="facebook">
+                                <div class="buzz-icon buzz-facebook"></div>
+                                0
+                            </span>
+                            <span class="twitter">
+                                <div class="buzz-icon buzz-twitter"></div>
+                                0
+                            </span>
+                            <span class="whatsapp">
+                                <div class="buzz-icon buzz-whatsapp"></div>
+                                0
+                            </span>
+                        </div>
+
+                        <div class="content-timeline__detail__date">
+                            11 Sep, 01:39 PM
+                        </div>
+
+                                                <a class="content-timeline__detail__author hide-phone"
+                            href="https://netnaijamovies.co.za/profile/isaac"
+                            title="Isaac"> Isaac</a>
+                        
+                        <div class="content-timeline__detail__social-media">
+                            <span class="has-dropdown" data-target="share-dropdown--118"
+                                data-align="left-bottom"><i class="material-icons"></i></span>
+                            <div class="share-dropdown share-dropdown--118  dropdown-container">
+                                <ul>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="facebook" data-type="news" data-id="118"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Minecraft Movie (2025)"
+                                        data-sef="https://netnaijamovies.co.za/news/minecraft-movie--2025">
+                                        <span class="share-dropdown__icon share-dropdown__icon--facebook"></span>
+                                        <span class="share-dropdown__title">Facebook</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="twitter" data-type="news" data-id="118"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Minecraft Movie (2025)"
+                                        data-sef="https://netnaijamovies.co.za/news/minecraft-movie--2025">
+                                        <span class="share-dropdown__icon share-dropdown__icon--twitter"></span>
+                                        <span class="share-dropdown__title">Twitter</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="whatsapp" data-type="news" data-id="118"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Minecraft Movie (2025)"
+                                        data-sef="https://netnaijamovies.co.za/news/minecraft-movie--2025">
+                                        <span class="share-dropdown__icon share-dropdown__icon--whatsapp"></span>
+                                        <span class="share-dropdown__title">Whatsapp</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="mail" data-type="news" data-id="118"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Minecraft Movie (2025)"
+                                        data-sef="https://netnaijamovies.co.za/news/minecraft-movie--2025">
+                                        <span class="share-dropdown__icon share-dropdown__icon--mail"></span>
+                                        <span class="share-dropdown__title">Email</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                                                            <div class="content-timeline__item is-active large">
+    <div class="content-timeline--right">
+        <div class="content-timeline__link clearfix">
+            <div class="content-timeline__media">
+                <figure class="content-timeline__media__image">
+                    <a href="https://netnaijamovies.co.za/news/bob-s-burgers--2011--series" title="Bob's Burgers (2011) Series">
+                        <img data-src="https://netnaijamovies.co.za/upload/media/posts/2024-09/10/bob-s-burgers-2011-series_1725952129-s.jpg" class=" lazyload"
+                            alt="Bob's Burgers (2011) Series" width="262" height="147">
+                    </a>
+                </figure>
+            </div>
+            <div class="content-timeline__detail">
+                <div class="content-timeline__detail__container">
+                    <a href="https://netnaijamovies.co.za/news/bob-s-burgers--2011--series" title="Bob's Burgers (2011) Series">
+                        <h3 class="content-timeline__detail__title">Bob's Burgers (2011) Series</h3>
+                    </a>
+                    <div class="content-timeline__detail--top">
+                        <p class="content-timeline__detail__desc">&quot;Bob&#039;s Burgers&quot; is an animated sitcom that first aired in 2011 on Fox and has since grown into one of the most beloved family-centered comedies on television. Created by Loren Bouchard, the series centers on the quirky Belcher family and their modest, str...</p>
+                    </div>
+                    <div class="content-timeline__detail--bottom">
+                        <div class="content-timeline__detail__date share_counts">
+                            <span class="facebook">
+                                <div class="buzz-icon buzz-facebook"></div>
+                                0
+                            </span>
+                            <span class="twitter">
+                                <div class="buzz-icon buzz-twitter"></div>
+                                0
+                            </span>
+                            <span class="whatsapp">
+                                <div class="buzz-icon buzz-whatsapp"></div>
+                                0
+                            </span>
+                        </div>
+
+                        <div class="content-timeline__detail__date">
+                            10 Sep, 09:08 AM
+                        </div>
+
+                                                <a class="content-timeline__detail__author hide-phone"
+                            href="https://netnaijamovies.co.za/profile/isaac"
+                            title="Isaac"> Isaac</a>
+                        
+                        <div class="content-timeline__detail__social-media">
+                            <span class="has-dropdown" data-target="share-dropdown--116"
+                                data-align="left-bottom"><i class="material-icons"></i></span>
+                            <div class="share-dropdown share-dropdown--116  dropdown-container">
+                                <ul>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="facebook" data-type="news" data-id="116"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Bob's Burgers (2011) Series"
+                                        data-sef="https://netnaijamovies.co.za/news/bob-s-burgers--2011--series">
+                                        <span class="share-dropdown__icon share-dropdown__icon--facebook"></span>
+                                        <span class="share-dropdown__title">Facebook</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="twitter" data-type="news" data-id="116"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Bob's Burgers (2011) Series"
+                                        data-sef="https://netnaijamovies.co.za/news/bob-s-burgers--2011--series">
+                                        <span class="share-dropdown__icon share-dropdown__icon--twitter"></span>
+                                        <span class="share-dropdown__title">Twitter</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="whatsapp" data-type="news" data-id="116"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Bob's Burgers (2011) Series"
+                                        data-sef="https://netnaijamovies.co.za/news/bob-s-burgers--2011--series">
+                                        <span class="share-dropdown__icon share-dropdown__icon--whatsapp"></span>
+                                        <span class="share-dropdown__title">Whatsapp</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="mail" data-type="news" data-id="116"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Bob's Burgers (2011) Series"
+                                        data-sef="https://netnaijamovies.co.za/news/bob-s-burgers--2011--series">
+                                        <span class="share-dropdown__icon share-dropdown__icon--mail"></span>
+                                        <span class="share-dropdown__title">Email</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                                                            <div class="content-timeline__item is-active large">
+    <div class="content-timeline--right">
+        <div class="content-timeline__link clearfix">
+            <div class="content-timeline__media">
+                <figure class="content-timeline__media__image">
+                    <a href="https://netnaijamovies.co.za/news/abigail--2024--movie" title="Abigail (2024) Movie">
+                        <img data-src="https://netnaijamovies.co.za/upload/media/posts/2024-09/09/abigail-2024-movie_1725887019-s.jpg" class=" lazyload"
+                            alt="Abigail (2024) Movie" width="262" height="147">
+                    </a>
+                </figure>
+            </div>
+            <div class="content-timeline__detail">
+                <div class="content-timeline__detail__container">
+                    <a href="https://netnaijamovies.co.za/news/abigail--2024--movie" title="Abigail (2024) Movie">
+                        <h3 class="content-timeline__detail__title">Abigail (2024) Movie</h3>
+                    </a>
+                    <div class="content-timeline__detail--top">
+                        <p class="content-timeline__detail__desc">Abigail (2024) is an upcoming horror-thriller with a terrifying twist on the classic kidnapping tale. Directed by Matt Bettinelli-Olpin, known for his work in the Scream franchise, the film follows a group of criminals who make the grave mistake of abduct...</p>
+                    </div>
+                    <div class="content-timeline__detail--bottom">
+                        <div class="content-timeline__detail__date share_counts">
+                            <span class="facebook">
+                                <div class="buzz-icon buzz-facebook"></div>
+                                0
+                            </span>
+                            <span class="twitter">
+                                <div class="buzz-icon buzz-twitter"></div>
+                                0
+                            </span>
+                            <span class="whatsapp">
+                                <div class="buzz-icon buzz-whatsapp"></div>
+                                0
+                            </span>
+                        </div>
+
+                        <div class="content-timeline__detail__date">
+                            9 Sep, 03:03 PM
+                        </div>
+
+                                                <a class="content-timeline__detail__author hide-phone"
+                            href="https://netnaijamovies.co.za/profile/isaac"
+                            title="Isaac"> Isaac</a>
+                        
+                        <div class="content-timeline__detail__social-media">
+                            <span class="has-dropdown" data-target="share-dropdown--115"
+                                data-align="left-bottom"><i class="material-icons"></i></span>
+                            <div class="share-dropdown share-dropdown--115  dropdown-container">
+                                <ul>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="facebook" data-type="news" data-id="115"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Abigail (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/abigail--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--facebook"></span>
+                                        <span class="share-dropdown__title">Facebook</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="twitter" data-type="news" data-id="115"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Abigail (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/abigail--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--twitter"></span>
+                                        <span class="share-dropdown__title">Twitter</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="whatsapp" data-type="news" data-id="115"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Abigail (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/abigail--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--whatsapp"></span>
+                                        <span class="share-dropdown__title">Whatsapp</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="mail" data-type="news" data-id="115"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Abigail (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/abigail--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--mail"></span>
+                                        <span class="share-dropdown__title">Email</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                                                            <div class="content-timeline__item is-active large">
+    <div class="content-timeline--right">
+        <div class="content-timeline__link clearfix">
+            <div class="content-timeline__media">
+                <figure class="content-timeline__media__image">
+                    <a href="https://netnaijamovies.co.za/news/kung-fu-panda-4--2024--movie" title="Kung Fu Panda 4 (2024) Movie">
+                        <img data-src="https://netnaijamovies.co.za/upload/media/posts/2024-09/09/kung-fu-panda-4-2024-movie_1725886837-s.jpg" class=" lazyload"
+                            alt="Kung Fu Panda 4 (2024) Movie" width="262" height="147">
+                    </a>
+                </figure>
+            </div>
+            <div class="content-timeline__detail">
+                <div class="content-timeline__detail__container">
+                    <a href="https://netnaijamovies.co.za/news/kung-fu-panda-4--2024--movie" title="Kung Fu Panda 4 (2024) Movie">
+                        <h3 class="content-timeline__detail__title">Kung Fu Panda 4 (2024) Movie</h3>
+                    </a>
+                    <div class="content-timeline__detail--top">
+                        <p class="content-timeline__detail__desc">Kung Fu Panda 4 returns to the beloved world of the Kung Fu Panda series, with Po facing one of his biggest challenges yet. In this new chapter, Po is chosen to become the Spiritual Leader of the Valley of Peace, a role that demands both wisdom and respon...</p>
+                    </div>
+                    <div class="content-timeline__detail--bottom">
+                        <div class="content-timeline__detail__date share_counts">
+                            <span class="facebook">
+                                <div class="buzz-icon buzz-facebook"></div>
+                                0
+                            </span>
+                            <span class="twitter">
+                                <div class="buzz-icon buzz-twitter"></div>
+                                0
+                            </span>
+                            <span class="whatsapp">
+                                <div class="buzz-icon buzz-whatsapp"></div>
+                                0
+                            </span>
+                        </div>
+
+                        <div class="content-timeline__detail__date">
+                            9 Sep, 03:00 PM
+                        </div>
+
+                                                <a class="content-timeline__detail__author hide-phone"
+                            href="https://netnaijamovies.co.za/profile/isaac"
+                            title="Isaac"> Isaac</a>
+                        
+                        <div class="content-timeline__detail__social-media">
+                            <span class="has-dropdown" data-target="share-dropdown--114"
+                                data-align="left-bottom"><i class="material-icons"></i></span>
+                            <div class="share-dropdown share-dropdown--114  dropdown-container">
+                                <ul>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="facebook" data-type="news" data-id="114"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Kung Fu Panda 4 (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/kung-fu-panda-4--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--facebook"></span>
+                                        <span class="share-dropdown__title">Facebook</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="twitter" data-type="news" data-id="114"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Kung Fu Panda 4 (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/kung-fu-panda-4--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--twitter"></span>
+                                        <span class="share-dropdown__title">Twitter</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="whatsapp" data-type="news" data-id="114"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Kung Fu Panda 4 (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/kung-fu-panda-4--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--whatsapp"></span>
+                                        <span class="share-dropdown__title">Whatsapp</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="mail" data-type="news" data-id="114"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Kung Fu Panda 4 (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/kung-fu-panda-4--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--mail"></span>
+                                        <span class="share-dropdown__title">Email</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                                                            <div class="content-timeline__item is-active large">
+    <div class="content-timeline--right">
+        <div class="content-timeline__link clearfix">
+            <div class="content-timeline__media">
+                <figure class="content-timeline__media__image">
+                    <a href="https://netnaijamovies.co.za/news/dune--part-two--2024--movie" title="Dune: Part Two (2024) Movie">
+                        <img data-src="https://netnaijamovies.co.za/upload/media/posts/2024-09/09/dune-part-two-2024-movie_1725886698-s.jpg" class=" lazyload"
+                            alt="Dune: Part Two (2024) Movie" width="262" height="147">
+                    </a>
+                </figure>
+            </div>
+            <div class="content-timeline__detail">
+                <div class="content-timeline__detail__container">
+                    <a href="https://netnaijamovies.co.za/news/dune--part-two--2024--movie" title="Dune: Part Two (2024) Movie">
+                        <h3 class="content-timeline__detail__title">Dune: Part Two (2024) Movie</h3>
+                    </a>
+                    <div class="content-timeline__detail--top">
+                        <p class="content-timeline__detail__desc">Following the critically acclaimed Dune: Part One (2021), Dune: Part Two promises to take audiences deeper into the vast, complex world of Arrakis. Directed by Denis Villeneuve, this second installment in the Dune saga brings to life the next chapter of F...</p>
+                    </div>
+                    <div class="content-timeline__detail--bottom">
+                        <div class="content-timeline__detail__date share_counts">
+                            <span class="facebook">
+                                <div class="buzz-icon buzz-facebook"></div>
+                                0
+                            </span>
+                            <span class="twitter">
+                                <div class="buzz-icon buzz-twitter"></div>
+                                0
+                            </span>
+                            <span class="whatsapp">
+                                <div class="buzz-icon buzz-whatsapp"></div>
+                                0
+                            </span>
+                        </div>
+
+                        <div class="content-timeline__detail__date">
+                            9 Sep, 02:58 PM
+                        </div>
+
+                                                <a class="content-timeline__detail__author hide-phone"
+                            href="https://netnaijamovies.co.za/profile/isaac"
+                            title="Isaac"> Isaac</a>
+                        
+                        <div class="content-timeline__detail__social-media">
+                            <span class="has-dropdown" data-target="share-dropdown--113"
+                                data-align="left-bottom"><i class="material-icons"></i></span>
+                            <div class="share-dropdown share-dropdown--113  dropdown-container">
+                                <ul>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="facebook" data-type="news" data-id="113"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Dune: Part Two (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/dune--part-two--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--facebook"></span>
+                                        <span class="share-dropdown__title">Facebook</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="twitter" data-type="news" data-id="113"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Dune: Part Two (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/dune--part-two--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--twitter"></span>
+                                        <span class="share-dropdown__title">Twitter</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="whatsapp" data-type="news" data-id="113"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Dune: Part Two (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/dune--part-two--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--whatsapp"></span>
+                                        <span class="share-dropdown__title">Whatsapp</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="mail" data-type="news" data-id="113"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Dune: Part Two (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/dune--part-two--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--mail"></span>
+                                        <span class="share-dropdown__title">Email</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                                                            <div class="content-timeline__item is-active large">
+    <div class="content-timeline--right">
+        <div class="content-timeline__link clearfix">
+            <div class="content-timeline__media">
+                <figure class="content-timeline__media__image">
+                    <a href="https://netnaijamovies.co.za/news/kaos--2024--series" title="Kaos (2024) Series">
+                        <img data-src="https://netnaijamovies.co.za/upload/media/posts/2024-09/09/kaos-2024-series_1725886531-s.jpg" class=" lazyload"
+                            alt="Kaos (2024) Series" width="262" height="147">
+                    </a>
+                </figure>
+            </div>
+            <div class="content-timeline__detail">
+                <div class="content-timeline__detail__container">
+                    <a href="https://netnaijamovies.co.za/news/kaos--2024--series" title="Kaos (2024) Series">
+                        <h3 class="content-timeline__detail__title">Kaos (2024) Series</h3>
+                    </a>
+                    <div class="content-timeline__detail--top">
+                        <p class="content-timeline__detail__desc">Kaos (2024) promises to bring an exciting and modern twist to ancient Greek mythology. This contemporary drama series reimagines the classic tales of gods and heroes in a way that resonates with modern-day themes, while still maintaining the epic scale an...</p>
+                    </div>
+                    <div class="content-timeline__detail--bottom">
+                        <div class="content-timeline__detail__date share_counts">
+                            <span class="facebook">
+                                <div class="buzz-icon buzz-facebook"></div>
+                                0
+                            </span>
+                            <span class="twitter">
+                                <div class="buzz-icon buzz-twitter"></div>
+                                0
+                            </span>
+                            <span class="whatsapp">
+                                <div class="buzz-icon buzz-whatsapp"></div>
+                                0
+                            </span>
+                        </div>
+
+                        <div class="content-timeline__detail__date">
+                            9 Sep, 02:55 PM
+                        </div>
+
+                                                <a class="content-timeline__detail__author hide-phone"
+                            href="https://netnaijamovies.co.za/profile/isaac"
+                            title="Isaac"> Isaac</a>
+                        
+                        <div class="content-timeline__detail__social-media">
+                            <span class="has-dropdown" data-target="share-dropdown--112"
+                                data-align="left-bottom"><i class="material-icons"></i></span>
+                            <div class="share-dropdown share-dropdown--112  dropdown-container">
+                                <ul>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="facebook" data-type="news" data-id="112"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Kaos (2024) Series"
+                                        data-sef="https://netnaijamovies.co.za/news/kaos--2024--series">
+                                        <span class="share-dropdown__icon share-dropdown__icon--facebook"></span>
+                                        <span class="share-dropdown__title">Facebook</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="twitter" data-type="news" data-id="112"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Kaos (2024) Series"
+                                        data-sef="https://netnaijamovies.co.za/news/kaos--2024--series">
+                                        <span class="share-dropdown__icon share-dropdown__icon--twitter"></span>
+                                        <span class="share-dropdown__title">Twitter</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="whatsapp" data-type="news" data-id="112"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Kaos (2024) Series"
+                                        data-sef="https://netnaijamovies.co.za/news/kaos--2024--series">
+                                        <span class="share-dropdown__icon share-dropdown__icon--whatsapp"></span>
+                                        <span class="share-dropdown__title">Whatsapp</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="mail" data-type="news" data-id="112"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Kaos (2024) Series"
+                                        data-sef="https://netnaijamovies.co.za/news/kaos--2024--series">
+                                        <span class="share-dropdown__icon share-dropdown__icon--mail"></span>
+                                        <span class="share-dropdown__title">Email</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                                                            <div class="content-timeline__item is-active large">
+    <div class="content-timeline--right">
+        <div class="content-timeline__link clearfix">
+            <div class="content-timeline__media">
+                <figure class="content-timeline__media__image">
+                    <a href="https://netnaijamovies.co.za/news/open-season-3--2010" title="Open Season 3 (2010)">
+                        <img data-src="https://netnaijamovies.co.za/upload/media/posts/2024-09/09/open-season-3-2010_1725886322-s.jpg" class=" lazyload"
+                            alt="Open Season 3 (2010)" width="262" height="147">
+                    </a>
+                </figure>
+            </div>
+            <div class="content-timeline__detail">
+                <div class="content-timeline__detail__container">
+                    <a href="https://netnaijamovies.co.za/news/open-season-3--2010" title="Open Season 3 (2010)">
+                        <h3 class="content-timeline__detail__title">Open Season 3 (2010)</h3>
+                    </a>
+                    <div class="content-timeline__detail--top">
+                        <p class="content-timeline__detail__desc">Open Season 3 brings back the beloved characters from the Open Season franchise, this time with a zany new adventure involving a traveling circus.</p>
+                    </div>
+                    <div class="content-timeline__detail--bottom">
+                        <div class="content-timeline__detail__date share_counts">
+                            <span class="facebook">
+                                <div class="buzz-icon buzz-facebook"></div>
+                                0
+                            </span>
+                            <span class="twitter">
+                                <div class="buzz-icon buzz-twitter"></div>
+                                0
+                            </span>
+                            <span class="whatsapp">
+                                <div class="buzz-icon buzz-whatsapp"></div>
+                                0
+                            </span>
+                        </div>
+
+                        <div class="content-timeline__detail__date">
+                            9 Sep, 02:52 PM
+                        </div>
+
+                                                <a class="content-timeline__detail__author hide-phone"
+                            href="https://netnaijamovies.co.za/profile/isaac"
+                            title="Isaac"> Isaac</a>
+                        
+                        <div class="content-timeline__detail__social-media">
+                            <span class="has-dropdown" data-target="share-dropdown--111"
+                                data-align="left-bottom"><i class="material-icons"></i></span>
+                            <div class="share-dropdown share-dropdown--111  dropdown-container">
+                                <ul>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="facebook" data-type="news" data-id="111"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Open Season 3 (2010)"
+                                        data-sef="https://netnaijamovies.co.za/news/open-season-3--2010">
+                                        <span class="share-dropdown__icon share-dropdown__icon--facebook"></span>
+                                        <span class="share-dropdown__title">Facebook</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="twitter" data-type="news" data-id="111"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Open Season 3 (2010)"
+                                        data-sef="https://netnaijamovies.co.za/news/open-season-3--2010">
+                                        <span class="share-dropdown__icon share-dropdown__icon--twitter"></span>
+                                        <span class="share-dropdown__title">Twitter</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="whatsapp" data-type="news" data-id="111"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Open Season 3 (2010)"
+                                        data-sef="https://netnaijamovies.co.za/news/open-season-3--2010">
+                                        <span class="share-dropdown__icon share-dropdown__icon--whatsapp"></span>
+                                        <span class="share-dropdown__title">Whatsapp</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="mail" data-type="news" data-id="111"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Open Season 3 (2010)"
+                                        data-sef="https://netnaijamovies.co.za/news/open-season-3--2010">
+                                        <span class="share-dropdown__icon share-dropdown__icon--mail"></span>
+                                        <span class="share-dropdown__title">Email</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                                                            <div class="content-timeline__item is-active large">
+    <div class="content-timeline--right">
+        <div class="content-timeline__link clearfix">
+            <div class="content-timeline__media">
+                <figure class="content-timeline__media__image">
+                    <a href="https://netnaijamovies.co.za/news/horizon--an-american-saga-chapter-1--2024--movie" title="Horizon: An American Saga - Chapter 1 (2024) Movie">
+                        <img data-src="https://netnaijamovies.co.za/upload/media/posts/2024-09/09/horizon-an-american-saga-chapter-1-2024-movie_1725886163-s.jpg" class=" lazyload"
+                            alt="Horizon: An American Saga - Chapter 1 (2024) Movie" width="262" height="147">
+                    </a>
+                </figure>
+            </div>
+            <div class="content-timeline__detail">
+                <div class="content-timeline__detail__container">
+                    <a href="https://netnaijamovies.co.za/news/horizon--an-american-saga-chapter-1--2024--movie" title="Horizon: An American Saga - Chapter 1 (2024) Movie">
+                        <h3 class="content-timeline__detail__title">Horizon: An American Saga - Chapter 1 (2024) Movie</h3>
+                    </a>
+                    <div class="content-timeline__detail--top">
+                        <p class="content-timeline__detail__desc">In Horizon: An American Saga - Chapter 1, Kevin Costner returns to his roots as both actor and director, delving into the sweeping narrative of the American West during a tumultuous period in history. Set to premiere in June 2024, this highly anticipated...</p>
+                    </div>
+                    <div class="content-timeline__detail--bottom">
+                        <div class="content-timeline__detail__date share_counts">
+                            <span class="facebook">
+                                <div class="buzz-icon buzz-facebook"></div>
+                                0
+                            </span>
+                            <span class="twitter">
+                                <div class="buzz-icon buzz-twitter"></div>
+                                0
+                            </span>
+                            <span class="whatsapp">
+                                <div class="buzz-icon buzz-whatsapp"></div>
+                                0
+                            </span>
+                        </div>
+
+                        <div class="content-timeline__detail__date">
+                            9 Sep, 02:49 PM
+                        </div>
+
+                                                <a class="content-timeline__detail__author hide-phone"
+                            href="https://netnaijamovies.co.za/profile/isaac"
+                            title="Isaac"> Isaac</a>
+                        
+                        <div class="content-timeline__detail__social-media">
+                            <span class="has-dropdown" data-target="share-dropdown--110"
+                                data-align="left-bottom"><i class="material-icons"></i></span>
+                            <div class="share-dropdown share-dropdown--110  dropdown-container">
+                                <ul>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="facebook" data-type="news" data-id="110"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Horizon: An American Saga - Chapter 1 (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/horizon--an-american-saga-chapter-1--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--facebook"></span>
+                                        <span class="share-dropdown__title">Facebook</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="twitter" data-type="news" data-id="110"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Horizon: An American Saga - Chapter 1 (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/horizon--an-american-saga-chapter-1--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--twitter"></span>
+                                        <span class="share-dropdown__title">Twitter</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="whatsapp" data-type="news" data-id="110"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Horizon: An American Saga - Chapter 1 (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/horizon--an-american-saga-chapter-1--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--whatsapp"></span>
+                                        <span class="share-dropdown__title">Whatsapp</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="mail" data-type="news" data-id="110"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Horizon: An American Saga - Chapter 1 (2024) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/horizon--an-american-saga-chapter-1--2024--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--mail"></span>
+                                        <span class="share-dropdown__title">Email</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                                                            <div class="content-timeline__item is-active large">
+    <div class="content-timeline--right">
+        <div class="content-timeline__link clearfix">
+            <div class="content-timeline__media">
+                <figure class="content-timeline__media__image">
+                    <a href="https://netnaijamovies.co.za/news/prey--2007" title="Prey (2007)">
+                        <img data-src="https://netnaijamovies.co.za/upload/media/posts/2024-09/09/prey-2007_1725885964-s.jpg" class=" lazyload"
+                            alt="Prey (2007)" width="262" height="147">
+                    </a>
+                </figure>
+            </div>
+            <div class="content-timeline__detail">
+                <div class="content-timeline__detail__container">
+                    <a href="https://netnaijamovies.co.za/news/prey--2007" title="Prey (2007)">
+                        <h3 class="content-timeline__detail__title">Prey (2007)</h3>
+                    </a>
+                    <div class="content-timeline__detail--top">
+                        <p class="content-timeline__detail__desc">Prey (2007) is a tense and gripping horror-thriller directed by Darrell Roodt. Set in the vast, untamed wilderness of Africa, the film follows an American family on holiday who find themselves in a terrifying struggle for survival when they become lost in...</p>
+                    </div>
+                    <div class="content-timeline__detail--bottom">
+                        <div class="content-timeline__detail__date share_counts">
+                            <span class="facebook">
+                                <div class="buzz-icon buzz-facebook"></div>
+                                0
+                            </span>
+                            <span class="twitter">
+                                <div class="buzz-icon buzz-twitter"></div>
+                                0
+                            </span>
+                            <span class="whatsapp">
+                                <div class="buzz-icon buzz-whatsapp"></div>
+                                0
+                            </span>
+                        </div>
+
+                        <div class="content-timeline__detail__date">
+                            9 Sep, 02:46 PM
+                        </div>
+
+                                                <a class="content-timeline__detail__author hide-phone"
+                            href="https://netnaijamovies.co.za/profile/isaac"
+                            title="Isaac"> Isaac</a>
+                        
+                        <div class="content-timeline__detail__social-media">
+                            <span class="has-dropdown" data-target="share-dropdown--109"
+                                data-align="left-bottom"><i class="material-icons"></i></span>
+                            <div class="share-dropdown share-dropdown--109  dropdown-container">
+                                <ul>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="facebook" data-type="news" data-id="109"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Prey (2007)"
+                                        data-sef="https://netnaijamovies.co.za/news/prey--2007">
+                                        <span class="share-dropdown__icon share-dropdown__icon--facebook"></span>
+                                        <span class="share-dropdown__title">Facebook</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="twitter" data-type="news" data-id="109"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Prey (2007)"
+                                        data-sef="https://netnaijamovies.co.za/news/prey--2007">
+                                        <span class="share-dropdown__icon share-dropdown__icon--twitter"></span>
+                                        <span class="share-dropdown__title">Twitter</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="whatsapp" data-type="news" data-id="109"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Prey (2007)"
+                                        data-sef="https://netnaijamovies.co.za/news/prey--2007">
+                                        <span class="share-dropdown__icon share-dropdown__icon--whatsapp"></span>
+                                        <span class="share-dropdown__title">Whatsapp</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="mail" data-type="news" data-id="109"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Prey (2007)"
+                                        data-sef="https://netnaijamovies.co.za/news/prey--2007">
+                                        <span class="share-dropdown__icon share-dropdown__icon--mail"></span>
+                                        <span class="share-dropdown__title">Email</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                                                            <div class="content-timeline__item is-active large">
+    <div class="content-timeline--right">
+        <div class="content-timeline__link clearfix">
+            <div class="content-timeline__media">
+                <figure class="content-timeline__media__image">
+                    <a href="https://netnaijamovies.co.za/news/reagan--2011--movie" title="Reagan (2011) Movie">
+                        <img data-src="https://netnaijamovies.co.za/upload/media/posts/2024-09/09/reagan-2011-movie_1725885819-s.jpg" class=" lazyload"
+                            alt="Reagan (2011) Movie" width="262" height="147">
+                    </a>
+                </figure>
+            </div>
+            <div class="content-timeline__detail">
+                <div class="content-timeline__detail__container">
+                    <a href="https://netnaijamovies.co.za/news/reagan--2011--movie" title="Reagan (2011) Movie">
+                        <h3 class="content-timeline__detail__title">Reagan (2011) Movie</h3>
+                    </a>
+                    <div class="content-timeline__detail--top">
+                        <p class="content-timeline__detail__desc">&quot;Reagan&quot; (2011) is a compelling documentary directed by Eugene Jarecki, renowned for his deep dives into political and historical subjects. The film offers a nuanced and multifaceted examination of the 40th President of the United States, Ronald Reagan. T...</p>
+                    </div>
+                    <div class="content-timeline__detail--bottom">
+                        <div class="content-timeline__detail__date share_counts">
+                            <span class="facebook">
+                                <div class="buzz-icon buzz-facebook"></div>
+                                0
+                            </span>
+                            <span class="twitter">
+                                <div class="buzz-icon buzz-twitter"></div>
+                                0
+                            </span>
+                            <span class="whatsapp">
+                                <div class="buzz-icon buzz-whatsapp"></div>
+                                0
+                            </span>
+                        </div>
+
+                        <div class="content-timeline__detail__date">
+                            9 Sep, 02:43 PM
+                        </div>
+
+                                                <a class="content-timeline__detail__author hide-phone"
+                            href="https://netnaijamovies.co.za/profile/isaac"
+                            title="Isaac"> Isaac</a>
+                        
+                        <div class="content-timeline__detail__social-media">
+                            <span class="has-dropdown" data-target="share-dropdown--108"
+                                data-align="left-bottom"><i class="material-icons"></i></span>
+                            <div class="share-dropdown share-dropdown--108  dropdown-container">
+                                <ul>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="facebook" data-type="news" data-id="108"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Reagan (2011) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/reagan--2011--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--facebook"></span>
+                                        <span class="share-dropdown__title">Facebook</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="twitter" data-type="news" data-id="108"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Reagan (2011) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/reagan--2011--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--twitter"></span>
+                                        <span class="share-dropdown__title">Twitter</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="whatsapp" data-type="news" data-id="108"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Reagan (2011) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/reagan--2011--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--whatsapp"></span>
+                                        <span class="share-dropdown__title">Whatsapp</span>
+                                    </li>
+                                    <li class="dropdown-container__item ripple buzz-share-button has-ripple"
+                                        data-share-type="mail" data-type="news" data-id="108"
+                                        data-post-url="https://netnaijamovies.co.za/post-share" data-title="Reagan (2011) Movie"
+                                        data-sef="https://netnaijamovies.co.za/news/reagan--2011--movie">
+                                        <span class="share-dropdown__icon share-dropdown__icon--mail"></span>
+                                        <span class="share-dropdown__title">Email</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                                                    </div>
+                        <div class="center-elements">
+                            <ul class="pagination">
+        
+                    <li class="page-item disabled"><span class="page-link">&laquo;</span></li>
+        
+        
+                    
+            
+            
+                                                                        <li class="page-item active"><span class="page-link">1</span></li>
+                                                                                <li class="page-item"><a class="page-link" href="https://netnaijamovies.co.za/tag/goojara?page=2">2</a></li>
+                                                                                <li class="page-item"><a class="page-link" href="https://netnaijamovies.co.za/tag/goojara?page=3">3</a></li>
+                                                                                <li class="page-item"><a class="page-link" href="https://netnaijamovies.co.za/tag/goojara?page=4">4</a></li>
+                                                                                <li class="page-item"><a class="page-link" href="https://netnaijamovies.co.za/tag/goojara?page=5">5</a></li>
+                                                        
+        
+                    <li class="page-item"><a class="page-link" href="https://netnaijamovies.co.za/tag/goojara?page=2" rel="next">&raquo;</a></li>
+            </ul>
+
+                        </div>
+                                    </div>
+            </div>
+        </div>
+        <div class="sidebar info-sidebar hide-mobile">
+            
+            <div class="sidebar-block clearfix">
+    <div class="colheader sea">
+        <h3 class="header-title">Connect With Community</h3>
+    </div>
+    <div class="social_links">
+                <a href="https://www.facebook.com/Xtrending24" class="social-facebook" target="_blank" rel="nofollow">
+            <img width="26px" src="https://netnaijamovies.co.za/assets/images/social_icons/facebook.svg" />
+            <span>FB</span>
+        </a>
+                <a href="http://www.x.com/xtrending24" class="social-twitter" target="_blank" rel="nofollow">
+            <img width="26px" src="https://netnaijamovies.co.za/assets/images/social_icons/twitter.svg" />
+            <span>X</span>
+        </a>
+                <a href="https://www.youtube.com/@xtrending24" class="social-youtube" target="_blank" rel="nofollow">
+            <img width="26px" src="https://netnaijamovies.co.za/assets/images/social_icons/youtube.svg" />
+            <span>Youtube</span>
+        </a>
+                <a href="http://www.instagram.com/xtrending24" class="social-instagram" target="_blank" rel="nofollow">
+            <img width="26px" src="https://netnaijamovies.co.za/assets/images/social_icons/instagram.svg" />
+            <span>Insta</span>
+        </a>
+                <a href="https://reddit.com/r/Xtrending/" class="social-reddit" target="_blank" rel="nofollow">
+            <img width="26px" src="https://netnaijamovies.co.za/assets/images/social_icons/reddit.svg" />
+            <span>Reddit</span>
+        </a>
+                <a href="https://linkedin.com/company/xtrending" class="social-linkedin" target="_blank" rel="nofollow">
+            <img width="26px" src="https://netnaijamovies.co.za/assets/images/social_icons/linkedin.svg" />
+            <span>Linkedin</span>
+        </a>
+                <a href="https://t.me/xtrending24" class="social-telegram" target="_blank" rel="nofollow">
+            <img width="26px" src="https://netnaijamovies.co.za/assets/images/social_icons/telegram.svg" />
+            <span>Telegram</span>
+        </a>
+                <a href="https://tiktok.com/@xtrendingtweets" class="social-tiktok" target="_blank" rel="nofollow">
+            <img width="26px" src="https://netnaijamovies.co.za/assets/images/social_icons/tiktok.svg" />
+            <span>Ticktok</span>
+        </a>
+                <a href="https://whatsapp.com/channel/0029VaFCLdQHwXb9Z3v5n742" class="social-whatsapp" target="_blank" rel="nofollow">
+            <img width="26px" src="https://netnaijamovies.co.za/assets/images/social_icons/whatsapp.svg" />
+            <span>WhatsApp Channel</span>
+        </a>
+            </div>
+</div>
+        </div>
+    </div>
+</div>
+
+<span class="back-to-top hide-mobile"><i class="material-icons">&#xE316;</i></span>
+<div class="clear"></div>
+<footer class="footer-bottom category-dropdown_sec sec_cat3 clearfix clearfix">
+    <div class="container">
+        <img class="footer-site-logo" src="https://netnaijamovies.co.za/upload/flogo.png" width="60px" alt="">
+        <div class="footer-left">
+            <div class="footer-menu clearfix">
+    <ul class="level_root ">            <li data-id="11" class="menu_item  ">
+            <a href="https://netnaijamovies.co.za/pages/About" class="menu-link footer-menu__item ripple" target="_self">
+                        <span class="menu-icon "></span>
+            <span class="menu-title ">About us</span>
+        </a>
+        </li>
+            <li data-id="12" class="menu_item  ">
+            <a href="https://netnaijamovies.co.za/pages/Terms" class="menu-link footer-menu__item ripple" target="_self">
+                        <span class="menu-icon "></span>
+            <span class="menu-title ">Terms of use</span>
+        </a>
+        </li>
+            <li data-id="13" class="menu_item  ">
+            <a href="https://netnaijamovies.co.za/pages/Policy" class="menu-link footer-menu__item ripple" target="_self">
+                        <span class="menu-icon "></span>
+            <span class="menu-title ">Privacy Policy</span>
+        </a>
+        </li>
+            <li data-id="14" class="menu_item  ">
+            <a href="https://netnaijamovies.co.za/pages/DMCA" class="menu-link footer-menu__item ripple" target="_self">
+                        <span class="menu-icon "></span>
+            <span class="menu-title ">DMCA Takedown Requests</span>
+        </a>
+        </li>
+            <li data-id="15" class="menu_item  ">
+            <a href="https://netnaijamovies.co.za/pages/Guidelines" class="menu-link footer-menu__item ripple" target="_self">
+                        <span class="menu-icon "></span>
+            <span class="menu-title ">Guidelines for users</span>
+        </a>
+        </li>
+    </ul>
+</div>
+            <div class="footer-copyright clearfix">
+    Copyright © 2024 Netnaija Movies. All rights reserved.
+</div>
+        </div>
+
+            </div>
+</footer>
+
+<script>
+    var buzzy_base_url ="https://netnaijamovies.co.za";
+    var buzzy_language ="en_US";
+    var buzzy_facebook_app ="";
+</script>
+<script src="https://netnaijamovies.co.za/assets/js/manifest.js?v=4.9.0"></script>
+<script src="https://netnaijamovies.co.za/assets/js/vendor.js?v=4.9.0"></script>
+<script src="https://netnaijamovies.co.za/assets/js/app.min.js?v=4.9.0"></script>
+
+
+<div id="auth-modal" class="modal auth-modal"></div>
+
+<div id="fb-root"></div>
+
+<div class="hide">
+    <input name="_requesttoken" id="requesttoken" type="hidden" value="mZSCriU7C58tjuLuJAsSGxMmky5HbUWvsY80wZxE" />
+</div>
+
+
+</body>
+</html>
+
+
+
